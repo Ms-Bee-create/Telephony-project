@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris Telecom & Real-Time AI Platform",
+  "description": "Global carrier-grade private IP network, programmable SIP trunking, conversational Voice AI agents, IoT cellular connectivity, and serverless GPU inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
